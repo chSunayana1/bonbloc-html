@@ -1,3 +1,4 @@
+
  document.addEventListener("DOMContentLoaded", () => {
       const accordionHeaders = document.querySelectorAll(".accordion-header");
 
@@ -15,7 +16,9 @@
         });
       });
     });
- document.addEventListener("DOMContentLoaded", () => {
+   
+
+     document.addEventListener("DOMContentLoaded", () => {
   // Existing accordion code...
   const accordionHeaders = document.querySelectorAll(".accordion-header");
 
@@ -31,7 +34,7 @@
       });
     });
   });
-
+    
   // --- Hero Slider Logic ---
   const heroSlides = [
     {
